@@ -1,0 +1,4 @@
+2026-04-29 13:40:43,849 - INFO - Created directory: test_folder\Images
+2026-04-29 13:40:43,849 - INFO - Successfully moved Flow-Chart-For-A-Face-Emotion-Detection.png -> test_folder\Images\Flow-Chart-For-A-Face-Emotion-Detection.png
+2026-04-29 13:40:43,850 - INFO - Created directory: test_folder\Documents
+2026-04-29 13:40:43,850 - INFO - Successfully moved hello.txt -> test_folder\Documents\hello.txt

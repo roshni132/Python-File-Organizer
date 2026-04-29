@@ -1,0 +1,34 @@
+Phase 1: The Essentials (Months 1–2)
+Before touching AI, you must understand how to talk to machines and the logic behind them. 
+Programming: Focus on Python, the industry standard due to libraries like NumPy and Pandas.
+Mathematics: You don't need a PhD, but you must understand:
+Linear Algebra: Vectors, matrices, and eigenvalues.
+Calculus: Derivatives and gradients (for optimization).
+Statistics & Probability: Distributions, Bayes' Theorem, and hypothesis testing.
+Data Handling: Learn to clean and visualize data using Matplotlib and Seaborn. 
+
+Phase 2: Core Machine Learning (Months 3–5)
+This is where you learn how machines actually "learn" from data. 
+Supervised Learning: Linear/Logistic Regression, Decision Trees, and Random Forests.
+Unsupervised Learning: K-Means Clustering and Dimensionality Reduction.
+Model Evaluation: Mastering metrics like Accuracy, Precision, Recall, and F1-Score is critical for knowing if your model actually works. 
+
+Phase 3: Deep Learning & Neural Networks (Months 6–8)
+Transition from basic algorithms to complex architectures inspired by the human brain.
+Frameworks: Pick one — PyTorch (favored in research) or TensorFlow (common in industry).
+Architectures:
+CNNs: For computer vision/images.
+RNNs/LSTMs: For sequential data like time-series or basic text.
+Transformers: The tech behind ChatGPT. 
+
+Phase 4: Modern Specializations (Months 9–10) 
+Stay current with the 2026 landscape by focusing on Generative AI. 
+LLMs: Fine-tuning pre-trained models like GPT or Llama.
+Retrieval-Augmented Generation (RAG): Learning how to give AI access to external knowledge.
+AI Agents: Building systems that can use tools and perform tasks autonomously. 
+
+Phase 5: MLOps & Portfolio (Months 11–12)
+To get hired, you must show you can put models into production.
+Deployment: Tools like Docker, FastAPI, and Flask.
+MLOps: Learning version control with Git and pipeline tracking with MLflow.
+Portfolio: Host your projects on GitHub and document your findings to show your thinking process to recruiters. 
